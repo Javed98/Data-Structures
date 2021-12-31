@@ -4,8 +4,8 @@ Linked List is an linear data structure that contains group of nodes
   
   <h3>Types of Linked List</h3>
   <ul>
-  <li><a href="https://github.com/Javed98/Linked-list/blob/40ce33b9fff104e336b0a5856cec7e18192b8f79/linkedList.java ">Singly Linked List</a></li>
+  <li><a href="https://github.com/Javed98/Data-Structures/blob/3b07692383656d3bdf9d7ea09139f25eb7a898a2/LinkedList/SinglyLinkedList.java">Singly Linked List</a></li>
   <li>Doubly Linked List</li>
-  <li><a href="https://github.com/Javed98/Linked-list/blob/40ce33b9fff104e336b0a5856cec7e18192b8f79/circularLinkedList.java ">Circular Linked List</a></li>
+  <li><a href="https://github.com/Javed98/Data-Structures/blob/3b07692383656d3bdf9d7ea09139f25eb7a898a2/LinkedList/CircularLinkedList.java">Circular Linked List</a></li>
   </ul>
 
